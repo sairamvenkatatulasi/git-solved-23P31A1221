@@ -96,6 +96,13 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Difficulty**: Hard
 - **Time**: 20 minutes
 
+#### Conflict 3: scripts/deploy.sh
+- **Issue**: Conflict between simple Docker-based deployment and AI-enabled multi-cloud deployment logic.
+- **Resolution**: Enhanced script to handle experimental environment with canary rollout, AI analysis, and chaos testing.
+- **Strategy**: Modularized script with environment-aware sections.
+- **Difficulty**: Hard
+- **Time**: 25 minutes
+
 
 
 ## Most Challenging Parts
