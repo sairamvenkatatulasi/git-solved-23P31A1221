@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Pentagatla Sai Ram Venkata Tulasi
 - Student ID: 23P31A1221
-- Repository: https://github.com/sairamvenkatatulasi/git-solved-23P31A1221.git
+- Repository: https://github.com/sairamvenkatatulasi/git-solved-23P31A1221
 - Date Started: 28-10-2025
 - Date Completed: 29-10-2025
 
