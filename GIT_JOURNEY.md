@@ -103,6 +103,12 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Difficulty**: Hard
 - **Time**: 25 minutes
 
+#### Conflict 4: scripts/monitor.js
+- **Issue**: Mismatch between standard monitoring logic and AI-powered predictive monitoring features.
+- **Resolution**: Unified monitoring system with production, development, and experimental support.
+- **Strategy**: Added AI model integration and predictive metrics using TensorFlow.js.
+- **Difficulty**: Hard
+- **Time**: 25 minutes
 
 
 ## Most Challenging Parts
