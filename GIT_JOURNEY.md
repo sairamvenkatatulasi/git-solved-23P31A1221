@@ -110,6 +110,12 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Difficulty**: Hard
 - **Time**: 25 minutes
 
+#### Conflict 5: docs/architecture.md
+- **Issue**: Overlap between base system architecture and commented experimental sections.
+- **Resolution**: Retained production and development architecture; restored experimental details in commented form for clarity.
+- **Strategy**: Consolidated all environment architectures with clear separation.
+- **Difficulty**: Medium
+- **Time**: 15 minutes
 
 ## Most Challenging Parts
 
