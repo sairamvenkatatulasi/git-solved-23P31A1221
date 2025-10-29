@@ -117,6 +117,13 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Difficulty**: Medium
 - **Time**: 15 minutes
 
+#### Conflict 6: README.md
+- **Issue**: Conflict between base project info and hidden experimental version details.
+- **Resolution**: Merged all environments (production, development, experimental) into a single unified README.
+- **Strategy**: Highlighted each environment under its section; added AI-driven enhancements as commented references.
+- **Difficulty**: Easy
+- **Time**: 10 minutes
+
 ## Most Challenging Parts
 
 1. **Understanding Conflict Markers**: Initially confused by `<<<<<<<`, `=======`, `>>>>>>>` symbols. Learned that HEAD is current branch and the other side is incoming changes.
