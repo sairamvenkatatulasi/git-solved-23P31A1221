@@ -82,7 +82,13 @@ merge conflicts across multiple branches using proper Git workflows.
 
 ### Merge 2: main + conflict-simulator (6 files)
 
-[Document the second set of conflicts similarly]
+#### Conflict 1: config/app-config.yaml
+- **Issue**: Conflict between stable production and AI-driven experimental configuration.
+- **Resolution**: Integrated experimental mode with production and development setups.
+- **Strategy**: Added new `experimental` environment with advanced AI and multi-cloud settings.
+- **Difficulty**: Hard
+- **Time**: 25 minutes
+
 
 ## Most Challenging Parts
 
