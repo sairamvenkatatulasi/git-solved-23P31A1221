@@ -89,6 +89,14 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Difficulty**: Hard
 - **Time**: 25 minutes
 
+#### Conflict 2: config/database-config.json
+- **Issue**: Conflicting schema between standard DB profiles and distributed AI cluster configuration.
+- **Resolution**: Combined production, development, and experimental configurations under structured JSON hierarchy.
+- **Strategy**: Supported multiple database modes with advanced replication and monitoring fields.
+- **Difficulty**: Hard
+- **Time**: 20 minutes
+
+
 
 ## Most Challenging Parts
 
